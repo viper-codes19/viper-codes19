@@ -1,4 +1,14 @@
-## Hi there 👋
+## 🐍 Viper — Code for Impact
+
+I’m Viper, a developer passionate about improving living conditions through technology and smart solutions. I write code not just to build apps, but to solve real-world problems that enhance daily life.
+
+💻 Tech Stack:
+HTML • CSS • Java • React • SQL
+
+🌍 Focus:
+Creating meaningful digital tools that empower communities, simplify systems, and drive positive change.
+
+Always learning. Always building. Always aiming to make life better — one line of code at a time.�
 
 <!--
 **viper-codes19/viper-codes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
